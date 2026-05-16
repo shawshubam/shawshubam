@@ -1,15 +1,17 @@
+<h1 align="center">Hi 👋, I'm Shubham</h1>
+<h3 align="center">AI Business Analyst at Capgemini</h3>
 
+A passionate tech professional bridging the gap between complex business needs and intelligent, data-driven solutions. 
 
-<h1 align="center">Hi 👋, I'm Shubam Kumar Shaw</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+- 🔭 I’m currently working on integrating **AI and Data Analytics** into enterprise workflows.
+- 🌱 I’m currently exploring **Agentic AI** and advanced business solution design.
+- 💬 Ask me about **Business Analysis, AI integration, SQL, and Python**.
+- 📫 How to reach me: **Shubam.shaw010@gmail.com**
+- 📄 Know about my experiences: [Connect with me on LinkedIn](https://www.linkedin.com/in/shubam-kumar-shaw-data-analyst/) 
+- ⚡ Outside of work: You can usually find me honing my public speaking and leadership skills at Toastmasters!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shawshubam&label=Profile%20views&color=0e75b6&style=flat" alt="shawshubam" /> </p>
-
-- 🔭 I’m currently working on [Content-Based Movie Recommendation System](https://github.com/shawshubam/Movie_Recommendation)
-
-- 🌱 I’m currently learning **Flask, Python, SQL**
-
-- 👯 I’m looking to collaborate on [BlinkIt-Power-BI](https://github.com/shawshubam/BlinkIt-Power-BI)
+### Connect with me:
+### Languages and Tools:
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/shubam-kumar-shaw-data-analyst/](https://www.linkedin.com/in/shubam-kumar-shaw-data-analyst/)
 
